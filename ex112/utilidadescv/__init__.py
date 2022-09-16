@@ -1,0 +1,1 @@
+from ex112.utilidadescv import moeda, dado
